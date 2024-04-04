@@ -5,6 +5,7 @@ Overview:
 ORB (Oriented FAST and Rotated BRIEF) is a feature extraction model used in computer vision for detecting and describing keypoints or interest points in images. 
 It combines two key algorithms, FAST (Features from Accelerated Segment Test) and BRIEF (Binary Robust Independent Elementary Features), to achieve efficient and robust feature extraction.
 
+![image](https://github.com/AI-withUralov/Image_Feature_Extraction/assets/164708950/879fd87a-61b5-425f-bc51-52f59865d71f)
 
 
 **Key Algorithms:**
